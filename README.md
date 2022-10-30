@@ -8,4 +8,4 @@ This project is responsive so that it may be presentable on all devices regardle
 
 ## Credits
 
-This project was created by just me. The outline/idea for this project came from the [freeCodeCamp responsive web design course.](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+This project was created by just me. The outline/idea for this project came from the [freeCodeCamp responsive web design course](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
